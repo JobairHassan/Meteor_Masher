@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module>
+    <entry-point class='jobair.hassan.libgdx.meteormasher.client.GwtLauncher' />
+    <set-configuration-property name="gdx.assetpath" value="../MeteorMasher-android/assets" />
+	<inherits name='MeteorMasherMain' />
+	<inherits name='com.badlogic.gdx.backends.gdx_backends_gwt' />
+</module>
